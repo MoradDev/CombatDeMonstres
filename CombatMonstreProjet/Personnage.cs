@@ -7,8 +7,8 @@ namespace CombatMonstreProjet
     class Personnage
     {
         private string name;
-        private int ATK, DEF, LP, XP, lvl;
-        public Personnage(String aName, int anATK, int aDEF, int LifePoints, int lvl)
+        private int ATK, DEF, LP, XP, lvl, XP4LVLUP;
+        public Personnage(String aName, int anATK, int aDEF, int LifePoints, int XP4LVLUP, int lvl)
         {
             this.name = aName;
             this.ATK = anATK;
@@ -16,10 +16,19 @@ namespace CombatMonstreProjet
             this.LP = LifePoints;
             this.lvl = lvl;
             this.XP = lvl;
+            this.XP4LVLUP = XP4LVLUP;
         }
         public void setLp(int lp)
         {
             this.LP = lp;
+        }
+        public void setXP4LVLUP(int XP4LVLUP)
+        {
+            this.XP4LVLUP = XP4LVLUP;
+        }
+        public int getXP4LVLUP()
+        {
+            return this.XP4LVLUP;
         }
         public int getATK()
         {
