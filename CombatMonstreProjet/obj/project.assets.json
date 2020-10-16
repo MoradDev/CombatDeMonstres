@@ -13,11 +13,25 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 927e8066c139909e266a2b421ae6efc7fa9433ff
       "projectUniqueName": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
       "projectName": "CombatMonstreProjet",
       "projectPath": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
       "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
       "outputPath": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\obj\\",
+<<<<<<< HEAD
+=======
+=======
+      "projectUniqueName": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
+      "projectName": "CombatMonstreProjet",
+      "projectPath": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
+      "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\obj\\",
+>>>>>>> d5e3a6e492ecb343dae751285ecfce811e2c2d5c
+>>>>>>> 927e8066c139909e266a2b421ae6efc7fa9433ff
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maxime\\AppData\\Roaming\\NuGet\\NuGet.Config",
