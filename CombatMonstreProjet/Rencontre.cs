@@ -23,10 +23,10 @@ namespace CombatMonstreProjet
             int rng = rand.next(-5, 5);
             int lvl = this.joueur.getlvl() + rng;
 
-            Bestiaire[0] = new Monstres("Troupe de Gobelins", this.joueur.getAtk() * lvl, this.joueur.getDef() * lvl, this.joueur.getLP() * lvl, lvl);
-            Bestiaire[1] = new Monstres("Lou Affamé", this.joueur.getAtk() * lvl, this.joueur.getDef() * lvl, this.joueur.getLP() * lvl, lvl);
-            Bestiaire[2] = new Monstres("Esprit Belliqueux", this.joueur.getAtk() * lvl, this.joueur.getDef() * lvl, this.joueur.getLP() * lvl, lvl);
-            Bestiaire[3] = new Monstres("Ogre à deux têtes", this.joueur.getAtk() * lvl, this.joueur.getDef() * lvl, this.joueur.getLP() * lvl, lvl);
+            Bestiaire[0] = new Monstres("Troupe de Gobelins", this.joueur.getAtk() * lvl * 0.2, this.joueur.getDef() * lvl *0.2, this.joueur.getLP() * lvl, lvl);
+            Bestiaire[1] = new Monstres("Loup Affamé", this.joueur.getAtk() * lvl * 0.3, this.joueur.getDef() * lvl * 0.3, this.joueur.getLP() * lvl, lvl);
+            Bestiaire[2] = new Monstres("Esprit Belliqueux", this.joueur.getAtk() * lvl * 0.5, this.joueur.getDef() * lvl * 0.5, this.joueur.getLP() * lvl, lvl);
+            Bestiaire[3] = new Monstres("Ogre à deux têtes", this.joueur.getAtk() * lvl * 0.7, this.joueur.getDef() * lvl * 0.7, this.joueur.getLP() * lvl, lvl);
             Bestiaire[4] = new Monstres("Dragon Ancestral", this.joueur.getAtk() * lvl, this.joueur.getDef() * lvl, this.joueur.getLP() * lvl, lvl);
 
             int aléa = rand.next(0,4);
