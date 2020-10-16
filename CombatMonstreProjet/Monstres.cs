@@ -21,6 +21,10 @@ namespace CombatMonstreProjet
         {
             this.LP = lp;
         }
+        public String getName()
+        {
+            return this.name;
+        }
         public int getATK()
         {
             return this.ATK;
@@ -42,7 +46,7 @@ namespace CombatMonstreProjet
             return this.lvl;
         }
 
-        private void attackPlayer(Personnage player)
+        public void attackPlayer(Personnage player)
         {
             if (player.getDEF() < this.ATK)
             {

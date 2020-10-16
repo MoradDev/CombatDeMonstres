@@ -1,17 +1,10 @@
 {
   "version": 2,
-
-  "dgSpecHash": "+MHRCdzV6HRdQ5ulH5xCOXETcqMnLZGJRQZc9bFI8E0kMTEuiEefjh7fLsU/1vd8jCHKeu1DRjF66OmL9228Og==",
+  "dgSpecHash": "kvyK12SutZT9Xqo1s5t909SxpLXleqIxE/8zo2nc5Tf7I9Y5ZZOI6tzqyasq7HfKLMzV/nxuel7HjTpzps2P0w==",
   "success": true,
-  "projectFilePath": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
-  "dgSpecHash": "+MHRCdzV6HRdQ5ulH5xCOXETcqMnLZGJRQZc9bFI8E0kMTEuiEefjh7fLsU/1vd8jCHKeu1DRjF66OmL9228Og==",
-  "success": true,
-  "projectFilePath": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
-
-  "dgSpecHash": "+MHRCdzV6HRdQ5ulH5xCOXETcqMnLZGJRQZc9bFI8E0kMTEuiEefjh7fLsU/1vd8jCHKeu1DRjF66OmL9228Og==",
-  "success": true,
-  "projectFilePath": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
-
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\arthu\\Documents\\GitHub\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

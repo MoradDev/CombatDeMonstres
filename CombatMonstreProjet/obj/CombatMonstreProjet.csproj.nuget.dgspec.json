@@ -1,34 +1,23 @@
 {
   "format": 1,
   "restore": {
-
-    "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj": {}
+    "C:\\Users\\arthu\\Documents\\GitHub\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj": {}
   },
   "projects": {
-    "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj": {
+    "C:\\Users\\arthu\\Documents\\GitHub\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\Documents\\GitHub\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
         "projectName": "CombatMonstreProjet",
-        "projectPath": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
-        "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
-        "outputPath": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\obj\\",
-
-    "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
-        "projectName": "CombatMonstreProjet",
-        "projectPath": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
-        "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\obj\\",
-
+        "projectPath": "C:\\Users\\arthu\\Documents\\GitHub\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthu\\Documents\\GitHub\\CombatDeMonstres\\CombatMonstreProjet\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Maxime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,12 +50,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
