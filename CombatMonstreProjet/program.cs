@@ -2,7 +2,7 @@
 
 namespace CombatMonstreProjet
 {
-    class Program
+    class program
     {
         static void Main(string[] args)
         {
