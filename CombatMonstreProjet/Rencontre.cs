@@ -15,6 +15,7 @@ namespace CombatMonstreProjet
         {
             this.joueur = joueur;
             this.setMonstre();
+
         }
 
         private void setMonstre()
