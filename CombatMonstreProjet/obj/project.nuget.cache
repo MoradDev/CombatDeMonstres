@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "+MHRCdzV6HRdQ5ulH5xCOXETcqMnLZGJRQZc9bFI8E0kMTEuiEefjh7fLsU/1vd8jCHKeu1DRjF66OmL9228Og==",
   "success": true,
   "projectFilePath": "A:\\Programmation\\C#\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
+=======
+  "dgSpecHash": "ernEebI1e2iF5+f5ncigJiOx14HMGUFUcREakaGLthVIbVbADnVPQL6qgRreeoxmrU5+TaSXWMBcnKrTbb0B9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
+>>>>>>> d5e3a6e492ecb343dae751285ecfce811e2c2d5c
   "expectedPackageFiles": [],
   "logs": []
 }
