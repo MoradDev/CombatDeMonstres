@@ -8,7 +8,7 @@ namespace CombatMonstreProjet
     {
         private String name;
         private int ATK, DEF, LP,XP , lvl;
-        public Monstres(String aName, int anATK, int aDEF,int LifePoints,int lvl,int anXP)
+        public Monstres(String aName, int anATK, int aDEF,int LifePoints,int lvl)
         {
             this.name = aName;
             this.ATK = anATK;
@@ -37,13 +37,17 @@ namespace CombatMonstreProjet
         {
             return this.XP;
         }
-
-        private void attackPlayer(Personnage p)
+        public int getLvl()
         {
-            if (p.getDEF() < this.ATK)
+            return this.lvl;
+        }
+
+        private void attackPlayer(Personnage player)
+        {
+            if (player.getDEF() < this.ATK)
             {
-                int degat = this.getATK() - p.getDEF();
-                p.setLP(p.getLP() - degat);
+                int degat = this.getATK() - player.getDEF();
+                player.setLP(player.getLP() - degat);
                 Console.WriteLine("Le joueur à subi " + degat + "pts de dégats.");
             }
             else
