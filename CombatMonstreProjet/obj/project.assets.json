@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Benjamin\\.nuget\\packages\\": {}
+    "C:\\Users\\Maxime\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benjamin\\projetJeu\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
+      "projectUniqueName": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
       "projectName": "CombatMonstreProjet",
-      "projectPath": "C:\\Users\\Benjamin\\projetJeu\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
-      "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benjamin\\projetJeu\\CombatDeMonstres\\CombatMonstreProjet\\obj\\",
+      "projectPath": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\CombatMonstreProjet.csproj",
+      "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maxime\\Source\\Repos\\KuroMay\\CombatDeMonstres\\CombatMonstreProjet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maxime\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -34,10 +34,32 @@
         "netcoreapp3.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {}
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
     }
   }
 }
