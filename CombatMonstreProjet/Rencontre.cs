@@ -34,5 +34,10 @@ namespace CombatMonstreProjet
 
         }
 
+        public void StartFight()
+        {
+            Combat cbt = new Combat(this.joueur,this.leMonstre);
+        }
+
     }
 }
