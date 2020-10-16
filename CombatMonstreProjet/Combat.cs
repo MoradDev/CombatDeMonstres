@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CombatMonstreProjet
 {
-    class Class4
+    class Combat
     {
     }
 }
