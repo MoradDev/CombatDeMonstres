@@ -6,7 +6,7 @@ namespace CombatMonstreProjet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Combat De Monstres !");
         }
     }
 }
