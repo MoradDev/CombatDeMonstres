@@ -1,0 +1,13 @@
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\obj\Debug\netcoreapp3.1\CombatMonstreProjet.csprojAssemblyReference.cache
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\obj\Debug\netcoreapp3.1\CombatMonstreProjet.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\obj\Debug\netcoreapp3.1\CombatMonstreProjet.AssemblyInfo.cs
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\obj\Debug\netcoreapp3.1\CombatMonstreProjet.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\bin\Debug\netcoreapp3.1\CombatMonstreProjet.exe
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\bin\Debug\netcoreapp3.1\CombatMonstreProjet.deps.json
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\bin\Debug\netcoreapp3.1\CombatMonstreProjet.runtimeconfig.json
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\bin\Debug\netcoreapp3.1\CombatMonstreProjet.runtimeconfig.dev.json
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\bin\Debug\netcoreapp3.1\CombatMonstreProjet.dll
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\bin\Debug\netcoreapp3.1\CombatMonstreProjet.pdb
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\obj\Debug\netcoreapp3.1\CombatMonstreProjet.dll
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\obj\Debug\netcoreapp3.1\CombatMonstreProjet.pdb
+C:\Users\arthu\Documents\GitHub\CombatDeMonstres\CombatMonstreProjet\obj\Debug\netcoreapp3.1\CombatMonstreProjet.genruntimeconfig.cache

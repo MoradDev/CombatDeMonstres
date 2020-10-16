@@ -15,12 +15,29 @@ namespace CombatMonstreProjet
             this.DEF = aDEF;
             this.LP = LifePoints;
             this.lvl = lvl;
-            this.XP = lvl;
+            this.XP = 0;
             this.XP4LVLUP = XP4LVLUP;
         }
-        public void setLp(int lp)
+        
+        public void setLP(int lp)
         {
             this.LP = lp;
+        }
+        public void setLvl(int lvl)
+        {
+            this.lvl = lvl;
+        }
+        public void setATK(int atk)
+        {
+            this.ATK = atk;
+        }
+        public void setDEF(int def)
+        {
+            this.DEF = def;
+        }
+        public void setXP(int xp)
+        {
+            this.XP = xp;
         }
         public void setXP4LVLUP(int XP4LVLUP)
         {
@@ -50,7 +67,7 @@ namespace CombatMonstreProjet
         {
             return this.lvl;
         }
-        private void attackMonster(Monstres monster)
+        public void attackMonster(Monstres monster)
         {
             if (monster.getDEF() < this.ATK)
             {
@@ -59,7 +76,10 @@ namespace CombatMonstreProjet
                 Console.WriteLine("Le monstre à subi " + degat + "pts de dégats.");
             }
             else
-                Console.WriteLine("Le monster n'à pas subi de dégats.");
+            {
+                monster.setLP(monster.getLP() - 1);
+                Console.WriteLine("Le monstre à subi 1 point de dégat.");
+            }
         }
     }
 }

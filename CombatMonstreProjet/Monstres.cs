@@ -17,7 +17,7 @@ namespace CombatMonstreProjet
             this.lvl = lvl;
             this.XP = lvl;
         }
-        public void setLp(int lp)
+        public void setLP(int lp)
         {
             this.LP = lp;
         }
